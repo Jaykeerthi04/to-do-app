@@ -5,7 +5,7 @@ A full-stack to-do app: a **React Native CLI (TypeScript)** Android app and a **
 | | |
 |---|---|
 | **Live API** | https://to-do-app-ntys.onrender.com/api (health check: `/health`) |
-| **APK** | `<paste GitHub Release / Drive link>` |
+| **APK** | [Download Taskly for Android](https://github.com/Jaykeerthi04/to-do-app/releases/latest) |
 
 > The API runs on a free Render instance, so the **first request after idle can take up to a minute** while it wakes up. The app tells the user when this happens.
 
